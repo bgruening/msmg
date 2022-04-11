@@ -1,6 +1,6 @@
 # Mini-symposium on microbial evolutionary genomics
 
-May 16 - 18, 2022 | [CEFE](https://www.cefe.cnrs.fr/fr/), CNRS, Montpellier
+May 17, 2022 | [CEFE](https://www.cefe.cnrs.fr/fr/), CNRS, Montpellier
 
 :::warning
 :exclamation: **Please [REGISTER HERE](https://forms.gle/WM3skmRYFheqyTw89)!**<br>
@@ -48,6 +48,10 @@ Due to proliferation of new data generation technologies microbial biology has b
 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.4489346465753!2d3.861949715883967!3d43.63882726137735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b6aed83ce457b1%3A0x2c0341ffcabbd103!2sCenter%20Eco%20Functional%20And%20Evolutionary%20Umr%205175!5e0!3m2!1sen!2sfr!4v1648805810719!5m2!1sen!2sfr" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+-----
+
+See something strange? [Edit on GitHub](https://github.com/nekrut/msmg).
 
 
 
