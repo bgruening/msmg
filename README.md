@@ -1,31 +1,19 @@
 # Mini-symposium on microbial evolutionary genomics
 
-May 17, 2022 | [CEFE](https://www.cefe.cnrs.fr/fr/), CNRS, Montpellier
+**May 17-18, 2022** | [CEFE](https://www.cefe.cnrs.fr/fr/), CNRS, Montpellier
+
+- **Day 1 (May 17)**: [The symposium](#May-17--The-symposium-on-microbial-evolutionary-genomics)
+- **Day 2 (May 18)**: [The workshop](#May-18--Microbial-data-analysis-workshop)
+
+## Register!
+
+
+**<kbd>[REGISTER HERE!](https://forms.gle/WM3skmRYFheqyTw89)</kbd>**<br>
+This event is free and open to everyone. However, to better plan the mini-symposium (e.g., exactly how much :coffee: & how many :croissant: we need) we will ask you to quickly complete the [following form](https://forms.gle/WM3skmRYFheqyTw89). Thank you for registering! 
 
 :::warning
-:exclamation: **Please [REGISTER HERE](https://forms.gle/WM3skmRYFheqyTw89)!**<br>
-This event is free and open to everyone. However, to better plan the mini-symposium we will ask you to quickly complete the [following form](https://forms.gle/WM3skmRYFheqyTw89). Thank you for registering! 
-::: 
-
-
-
-## Organizers 
-
-Stéphanie Bedhomme  & Anton Nekrutenko
-
-## Speakers
-
-- [**Ellie Harrison**](https://www.sheffield.ac.uk/biosciences/people/academic-staff/ellie-harrison) (University of Sheffield, UK) | Dynamics and evolution of microbial communities
-- [**Stéphanie Bedhomme**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/2721-stephanie-bedhomme) (CNRS and CEFE) | Evolutionary dynamics
-- [**Lois Maignien**](http://pagesperso.univ-brest.fr/~maignien/contact.html) (Université de Bretagne Occidentale) | Analysis of microbial communities
-- [**Martijn Callens**](https://www.ugent.be/bw/foodscience/en/research/faculty/matijn-callens.htm)  (Ghent University) | Experimental evolution
-- [**Maximilan Haussler**](https://engineering.ucsc.edu/people/max) (UC Santa Cruz) | Data analytics and representation
-- [**Guillaume Cambray**](http://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Guillaume%20Cambray) (CNRS and Centre de Biologie Structurale de Montpellier) | Synthetic biology
-- [**Mike Finnegan**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/803-doc/4043-michael-finnegan) (CNRS and CEFE) | Experimental evolution
-- [**Sergei Kosakovsky Pond**](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) (Temple University) | Molecular evolution and selection analysis
-- [**Sylvain Gandon**](https://evolepid.cefe.cnrs.fr/people.php?name=gandon) (CNRS and CEFE) | Molecular evlutionary dynamics
-- [**Wolfgang Maier**](https://github.com/wm75) (University of Freiburg) | Large scale analysis of pandemic data
-- [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) (Penn State University) | Data analysis frameworks for microbial genomics
+Following the symposium ([May 18]((#May-18--Microbial-data-analysis-workshop))) we will have a day-long (9:00 - 16:00) workshop on the analysis of large bacterial datasets. Use the [registration form]((https://forms.gle/WM3skmRYFheqyTw89)) to indicate if you would like to attend the workshop and what kind of data analysis you would like to learn about.
+:::
 
 ## Goals
 
@@ -38,6 +26,37 @@ Due to proliferation of new data generation technologies microbial biology has b
 - Analysis of selection
 - Data logistics and analysis automation
 
+
+## Organizers 
+
+Stéphanie Bedhomme  & Anton Nekrutenko
+
+## Program
+
+### May 17 | The symposium on microbial evolutionary genomics
+
+- [**Ellie Harrison**](https://www.sheffield.ac.uk/biosciences/people/academic-staff/ellie-harrison) (University of Sheffield, UK) | Dynamics and evolution of microbial communities
+- [**Stéphanie Bedhomme**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/2721-stephanie-bedhomme) (CNRS and CEFE) | Evolutionary dynamics
+- [**Lois Maignien**](http://pagesperso.univ-brest.fr/~maignien/contact.html) (Université de Bretagne Occidentale) | Analysis of microbial communities
+- [**Martijn Callens**](https://www.ugent.be/bw/foodscience/en/research/faculty/matijn-callens.htm)  (Ghent University) | Experimental evolution
+- [**Maximilan Haussler**](https://engineering.ucsc.edu/people/max) (UC Santa Cruz) | Data analytics and representation
+- [**Guillaume Cambray**](http://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Guillaume%20Cambray) (CNRS and Centre de Biologie Structurale de Montpellier) | Synthetic biology
+- [**Mike Finnegan**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/803-doc/4043-michael-finnegan) (CNRS and CEFE) | Experimental evolution
+- [**Sergei Kosakovsky Pond**](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) (Temple University) | Molecular evolution and selection analysis
+- [**Sylvain Gandon**](https://evolepid.cefe.cnrs.fr/people.php?name=gandon) (CNRS and CEFE) | Molecular evlutionary dynamics
+- [**Wolfgang Maier**](https://github.com/wm75) (University of Freiburg) | Large scale analysis of pandemic data
+- [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) (Erasmus MC) | Web-based analysis of complex metagenomic data
+- [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) (Penn State University) | Data analysis frameworks for microbial genomics
+
+### May 18 | Microbial data analysis workshop
+
+The workshop will focus on the application of sequencing data (Illumina, Oxford Nanopore, PacBio) to analysis of [microbial communities](https://training.galaxyproject.org/training-material/topics/metagenomics/), [genome assembly](https://training.galaxyproject.org/training-material/search?query=assembly), [analysis of variation](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/sars-cov-2-variant-discovery/tutorial.html), and [identification of sites under selection](https://stevenweaver.github.io/hyphy-site/tutorials/current-release-tutorial/). It will be presented by:
+
+- [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) - Erasmus MC, Netherlands
+- [**Helena Rasche**](https://training.galaxyproject.org/hall-of-fame/hexylena/) -  Erasmus MC & Avans Hogeschool, Netherlands
+- [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) - Penn State
+- [**Wolfgang Maier**](https://github.com/wm75) - University of Freiburg
+
 ## Sponsors
 
 - [MAK'IT](https://muse.edu.umontpellier.fr/en/muse-i-site/international/makit-home/)
@@ -46,6 +65,7 @@ Due to proliferation of new data generation technologies microbial biology has b
 
 ## Location
 
+We are in the process of finalizing a room reservation. The exact location will be posted here.
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.4489346465753!2d3.861949715883967!3d43.63882726137735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b6aed83ce457b1%3A0x2c0341ffcabbd103!2sCenter%20Eco%20Functional%20And%20Evolutionary%20Umr%205175!5e0!3m2!1sen!2sfr!4v1648805810719!5m2!1sen!2sfr" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
