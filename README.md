@@ -17,7 +17,7 @@ Following the symposium ([May 18]((#May-18--Microbial-data-analysis-workshop))) 
 
 ## Goals
 
-Due to proliferation of new data generation technologies microbial biology has become a data driven science. Yet there is still a limited "mixing" between researchers studying biological questions and their computational colleagues. The goal of the mini-conference is to bring together representatives of two sides ("wet" and "dry") and discover the ways in which they can be more aware of each other's challenges and priorities. The unique combination of speakers will cover the following areas:
+Due to proliferation of new data generation technologies microbial biology has become a data driven science. **Yet there is still a limited "mixing" between researchers studying biological questions and their computational colleagues.** The goal of the mini-conference is to bring together representatives of two sides ("wet" and "dry") and discover the ways in which they can be more aware of each other's challenges and priorities. The unique combination of speakers will cover the following areas:
 
 - Analysis of microbial communities
 - Experimental evolution
@@ -31,24 +31,27 @@ Due to proliferation of new data generation technologies microbial biology has b
 
 Stéphanie Bedhomme  & Anton Nekrutenko
 
-## Program
+## May 17 | The symposium on microbial evolutionary genomics
 
-### May 17 | The symposium on microbial evolutionary genomics
+| Who | When | What |
+|:-----|------:|------|
+|[**Ellie Harrison**](https://www.sheffield.ac.uk/biosciences/people/academic-staff/ellie-harrison) (University of Sheffield, UK) | 9:10 | Dynamics and evolution of microbial communities |
+| [**Lois Maignien**](http://pagesperso.univ-brest.fr/~maignien/contact.html) (Université de Bretagne Occidentale) | 9:45 | Analysis of microbial communities
+| [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) (Erasmus MC) | 10:05 | Global analytical environment for me |
+| :coffee: | 10:25 | :croissant: |
+| [**Stéphanie Bedhomme**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/2721-stephanie-bedhomme) (CNRS and CEFE) | 11:00 | Evolutionary dynamics of antiobiotic resistance |
+| [**Martijn Callens**](https://www.ugent.be/bw/foodscience/en/research/faculty/matijn-callens.htm)  (Ghent University) | 11:20  | Codon bias and antibiotic resistance
+| [**Mike Finnegan**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/803-doc/4043-michael-finnegan) (CNRS and CEFE) | 11:40 | Experimental evolution |
+| [**Sylvain Gandon**](https://evolepid.cefe.cnrs.fr/people.php?name=gandon) (CNRS and CEFE) | 12:00 | Molecular evolutionary dynamics |
+| :baguette_bread: | 12:20 | :cake: |
+| [**Sergei Kosakovsky Pond**](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) (Temple University) | 14:00 | Molecular evolution and selection analysis |
+| [**Guillaume Cambray**](http://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Guillaume%20Cambray) (CNRS and Centre de Biologie Structurale de Montpellier) | 14:20 | Synthetic biology |
+| [**Wolfgang Maier**](https://github.com/wm75) (University of Freiburg) 14:20 | 14:20 | Large scale analysis of pandemic data |
+| [**Maximilan Haeussler**](https://engineering.ucsc.edu/people/max) (UC Santa Cruz) | 14:40 | Data analytics and representation |
+| [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) (Penn State University) | 15:00 | Data analysis frameworks for microbial genomics |
+| :coffee: | 15:20 | :croissant: |
 
-- [**Ellie Harrison**](https://www.sheffield.ac.uk/biosciences/people/academic-staff/ellie-harrison) (University of Sheffield, UK) | Dynamics and evolution of microbial communities
-- [**Stéphanie Bedhomme**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/2721-stephanie-bedhomme) (CNRS and CEFE) | Evolutionary dynamics
-- [**Lois Maignien**](http://pagesperso.univ-brest.fr/~maignien/contact.html) (Université de Bretagne Occidentale) | Analysis of microbial communities
-- [**Martijn Callens**](https://www.ugent.be/bw/foodscience/en/research/faculty/matijn-callens.htm)  (Ghent University) | Experimental evolution
-- [**Maximilan Haussler**](https://engineering.ucsc.edu/people/max) (UC Santa Cruz) | Data analytics and representation
-- [**Guillaume Cambray**](http://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Guillaume%20Cambray) (CNRS and Centre de Biologie Structurale de Montpellier) | Synthetic biology
-- [**Mike Finnegan**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/803-doc/4043-michael-finnegan) (CNRS and CEFE) | Experimental evolution
-- [**Sergei Kosakovsky Pond**](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) (Temple University) | Molecular evolution and selection analysis
-- [**Sylvain Gandon**](https://evolepid.cefe.cnrs.fr/people.php?name=gandon) (CNRS and CEFE) | Molecular evlutionary dynamics
-- [**Wolfgang Maier**](https://github.com/wm75) (University of Freiburg) | Large scale analysis of pandemic data
-- [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) (Erasmus MC) | Web-based analysis of complex metagenomic data
-- [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) (Penn State University) | Data analysis frameworks for microbial genomics
-
-### May 18 | Microbial data analysis workshop
+## May 18 | Microbial data analysis workshop
 
 The workshop will focus on the application of sequencing data (Illumina, Oxford Nanopore, PacBio) to analysis of [microbial communities](https://training.galaxyproject.org/training-material/topics/metagenomics/), [genome assembly](https://training.galaxyproject.org/training-material/search?query=assembly), [analysis of variation](https://training.galaxyproject.org/training-material/topics/variant-analysis/tutorials/sars-cov-2-variant-discovery/tutorial.html), and [identification of sites under selection](https://stevenweaver.github.io/hyphy-site/tutorials/current-release-tutorial/). It will be presented by:
 
@@ -71,7 +74,7 @@ We are in the process of finalizing a room reservation. The exact location will 
 
 -----
 
-See something strange? [Edit on GitHub](https://github.com/nekrut/msmg).
+See something strange? [Edit on GitHub](https://github.com/nekrut/msmg). 
 
 
 
