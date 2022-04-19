@@ -42,7 +42,7 @@ Stéphanie Bedhomme  & Anton Nekrutenko
 | [**Stéphanie Bedhomme**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/2721-stephanie-bedhomme) (CNRS and CEFE) | 11:00 | Evolutionary dynamics of antiobiotic resistance |
 | [**Martijn Callens**](https://www.ugent.be/bw/foodscience/en/research/faculty/matijn-callens.htm)  (Ghent University) | 11:20  | Codon bias and antibiotic resistance
 | [**Mike Finnegan**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/803-doc/4043-michael-finnegan) (CNRS and CEFE) | 11:40 | Experimental evolution |
-| [**Sylvain Gandon**](https://evolepid.cefe.cnrs.fr/people.php?name=gandon) (CNRS and CEFE) | 12:00 | Molecular evolutionary dynamics |
+| [**Sylvain Gandon**](https://evolepid.cefe.cnrs.fr/people.php?name=gandon) (CNRS and CEFE) | 12:00 | Coevolutionary dynamics between phages and CRISPR immunity |
 | :baguette_bread: | 12:20 | :cake: |
 | [**Sergei Kosakovsky Pond**](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) (Temple University) | 14:00 | Molecular evolution and selection analysis |
 | [**Guillaume Cambray**](http://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Guillaume%20Cambray) (CNRS and Centre de Biologie Structurale de Montpellier) | 14:20 | Synthetic biology |
@@ -70,7 +70,7 @@ The workshop will focus on the application of sequencing data (Illumina, Oxford 
 
 We are in the process of finalizing a room reservation. The exact location will be posted here.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2887.4489346465753!2d3.861949715883967!3d43.63882726137735!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b6aed83ce457b1%3A0x2c0341ffcabbd103!2sCenter%20Eco%20Functional%20And%20Evolutionary%20Umr%205175!5e0!3m2!1sen!2sfr!4v1648805810719!5m2!1sen!2sfr" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2888.597574975549!2d3.871250652132275!3d43.61491997902024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b6af067c067241%3A0xb66b83e8f6bed7ce!2s5%20Bd%20Henri%20IV%2C%2034090%20Montpellier!5e0!3m2!1sen!2sfr!4v1650355069040!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 -----
 
