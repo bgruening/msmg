@@ -11,9 +11,9 @@
 **<kbd>[REGISTER HERE!](https://forms.gle/WM3skmRYFheqyTw89)</kbd>**<br>
 This event is free and open to everyone. However, to better plan the mini-symposium (e.g., exactly how much :coffee: & how many :croissant: we need) we will ask you to quickly complete the [following form](https://forms.gle/WM3skmRYFheqyTw89). Thank you for registering! 
 
-:::warning
+:warning:
 Following the symposium ([May 18]((#May-18--Microbial-data-analysis-workshop))) we will have a day-long (9:00 - 16:00) workshop on the analysis of large bacterial datasets. Use the [registration form]((https://forms.gle/WM3skmRYFheqyTw89)) to indicate if you would like to attend the workshop and what kind of data analysis you would like to learn about.
-:::
+
 
 ## Goals
 
