@@ -11,9 +11,9 @@
 **<kbd>[REGISTER HERE!](https://forms.gle/WM3skmRYFheqyTw89)</kbd>**<br>
 This event is free and open to everyone. However, to better plan the mini-symposium (e.g., exactly how much :coffee: & how many :croissant: we need) we will ask you to quickly complete the [following form](https://forms.gle/WM3skmRYFheqyTw89). Thank you for registering! 
 
-:warning:
+:::warning
 Following the symposium ([May 18]((#May-18--Microbial-data-analysis-workshop))) we will have a day-long (9:00 - 16:00) workshop on the analysis of large bacterial datasets. Use the [registration form]((https://forms.gle/WM3skmRYFheqyTw89)) to indicate if you would like to attend the workshop and what kind of data analysis you would like to learn about.
-
+:::
 
 ## Goals
 
@@ -46,10 +46,11 @@ Stéphanie Bedhomme  & Anton Nekrutenko
 | :baguette_bread: | 12:20 | :cake: |
 | [**Sergei Kosakovsky Pond**](https://igem.temple.edu/people/person/e266d9a5b7f043109baecc3c340491f6) (Temple University) | 14:00 | Molecular evolution and selection analysis |
 | [**Guillaume Cambray**](http://www.cbs.cnrs.fr/index.php/fr/personnel?PERS=Guillaume%20Cambray) (CNRS and Centre de Biologie Structurale de Montpellier) | 14:20 | Synthetic biology |
-| [**Wolfgang Maier**](https://github.com/wm75) (University of Freiburg) 14:20 | 14:20 | Large scale analysis of pandemic data |
-| [**Maximilan Haeussler**](https://engineering.ucsc.edu/people/max) (UC Santa Cruz) | 14:40 | Data analytics and representation |
-| [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) (Penn State University) | 15:00 | Data analysis frameworks for microbial genomics |
-| :coffee: | 15:20 | :croissant: |
+| [**Sébastien Puechmaille**](https://isem-evolution.fr/en/membre/puechmaille/) (ISEM) | 14:40 | Genomics of White Nose Disease 
+| [**Wolfgang Maier**](https://github.com/wm75) (University of Freiburg) 14:20 | 15:00 | Large scale analysis of pandemic data |
+| [**Maximilan Haeussler**](https://engineering.ucsc.edu/people/max) (UC Santa Cruz) | 15:20 | Data analytics and representation |
+| [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) (Penn State University) | 15:40 | Data analysis frameworks for microbial genomics |
+| :coffee: | 16:00 | :croissant: |
 
 ## May 18 | Microbial data analysis workshop
 
@@ -60,15 +61,21 @@ The workshop will focus on the application of sequencing data (Illumina, Oxford 
 - [**Anton Nekrutenko**](https://nekrut.bx.psu.edu) - Penn State
 - [**Wolfgang Maier**](https://github.com/wm75) - University of Freiburg
 
+Workshop will consist of two parts interrupted by a lunch break:
+
+1. **Part 1**: 9:00 - 12:00
+2. **Part 2**: 13:30 - 16:00
+
+
 ## Sponsors
 
-- [MAK'IT](https://muse.edu.umontpellier.fr/en/muse-i-site/international/makit-home/)
+- [MAK'IT](https://muse.edu.umontpellier.fr/en/muse-i-site/international/makit-home/) ([MAK'IT announcement](https://muse.edu.umontpellier.fr/en/2022/05/04/anton-nekrutenkos-event-microbial-evolutionary-genomics-and-data-analysis-17-18-may-2022/))
 - CEFE/CNRS
 - NIH/NSF
 
 ## Location
 
-We are in the process of finalizing a room reservation. The exact location will be posted here.
+ 5 Bd Henri IV, 34090, Montpellier
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2888.597574975549!2d3.871250652132275!3d43.61491997902024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12b6af067c067241%3A0xb66b83e8f6bed7ce!2s5%20Bd%20Henri%20IV%2C%2034090%20Montpellier!5e0!3m2!1sen!2sfr!4v1650355069040!5m2!1sen!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
