@@ -1,6 +1,7 @@
 # Mini-symposium on microbial evolutionary genomics
 
-**May 17-18, 2022** | [CEFE](https://www.cefe.cnrs.fr/fr/), CNRS, Montpellier
+**When**: May 17-18, 2022<br>
+**Where**: [5 Bd Henri IV, 34090, Montpellier](https://goo.gl/maps/vrEE9yvcBSjj2yR28)
 
 - **Day 1 (May 17)**: [The symposium](#May-17--The-symposium-on-microbial-evolutionary-genomics)
 - **Day 2 (May 18)**: [The workshop](#May-18--Microbial-data-analysis-workshop)
@@ -37,7 +38,7 @@ Stéphanie Bedhomme  & Anton Nekrutenko
 |:-----|------:|------|
 |[**Ellie Harrison**](https://www.sheffield.ac.uk/biosciences/people/academic-staff/ellie-harrison) (University of Sheffield, UK) | 9:10 | Dynamics and evolution of microbial communities |
 | [**Lois Maignien**](http://pagesperso.univ-brest.fr/~maignien/contact.html) (Université de Bretagne Occidentale) | 9:45 | Analysis of microbial communities
-| [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) (Erasmus MC) | 10:05 | Global analytical environment for me |
+| [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) (Erasmus MC) | 10:05 | Global analytical environment for metagenomic analyses |
 | :coffee: | 10:25 | :croissant: |
 | [**Stéphanie Bedhomme**](https://www.cefe.cnrs.fr/fr/recherche/ee/gee/800-c/2721-stephanie-bedhomme) (CNRS and CEFE) | 11:00 | Evolutionary dynamics of antiobiotic resistance |
 | [**Martijn Callens**](https://www.ugent.be/bw/foodscience/en/research/faculty/matijn-callens.htm)  (Ghent University) | 11:20  | Codon bias and antibiotic resistance
