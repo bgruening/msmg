@@ -43,6 +43,7 @@ Stéphanie Bedhomme  & Anton Nekrutenko
 
 | Who | When | What |
 |:-----|------:|------|
+| SB and AN | 9:00 | Inroduction |
 |[**Ellie Harrison**](https://www.sheffield.ac.uk/biosciences/people/academic-staff/ellie-harrison) (University of Sheffield, UK) | 9:10 | Dynamics and evolution of microbial communities |
 | [**Lois Maignien**](http://pagesperso.univ-brest.fr/~maignien/contact.html) (Université de Bretagne Occidentale) | 9:45 | Analysis of microbial communities
 | [**Saskia Hiltemann**](https://training.galaxyproject.org/hall-of-fame/shiltemann/) (Erasmus MC) | 10:05 | Global analytical environment for metagenomic analyses |
