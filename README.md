@@ -6,15 +6,22 @@
 - **Day 1 (May 17)**: [The symposium](#May-17--The-symposium-on-microbial-evolutionary-genomics)
 - **Day 2 (May 18)**: [The workshop](#May-18--Microbial-data-analysis-workshop)
 
-## Register!
+## How to get there!
+
+Click on the map to get directions. There will be signs pointing you to the auditorium.
+
+[![](https://i.imgur.com/s8HgoV7.jpg)](https://goo.gl/maps/cW2ye8rFEE7V957G6)
 
 
+<!--
 **<kbd>[REGISTER HERE!](https://forms.gle/WM3skmRYFheqyTw89)</kbd>**<br>
 This event is free and open to everyone. However, to better plan the mini-symposium (e.g., exactly how much :coffee: & how many :croissant: we need) we will ask you to quickly complete the [following form](https://forms.gle/WM3skmRYFheqyTw89). Thank you for registering! 
 
 :::warning
 Following the symposium ([May 18]((#May-18--Microbial-data-analysis-workshop))) we will have a day-long (9:00 - 16:00) workshop on the analysis of large bacterial datasets. Use the [registration form]((https://forms.gle/WM3skmRYFheqyTw89)) to indicate if you would like to attend the workshop and what kind of data analysis you would like to learn about.
 :::
+
+-->
 
 ## Goals
 
